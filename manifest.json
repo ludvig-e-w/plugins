@@ -1,0 +1,14 @@
+{
+  "name": "Font Changer and Replacer",
+  "id": "font-changer-replacer",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "permissions": [],
+  "main": "dist/code.js",
+  "ui": "dist/index.html",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  },
+  "documentAccess": "dynamic-page"
+}
+
